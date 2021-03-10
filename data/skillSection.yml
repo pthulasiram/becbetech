@@ -1,0 +1,23 @@
+---
+enable: true
+topTitle: Our skills
+content: >
+  ## Why choose us for your next project?
+
+  Our goal is to build a customer centric application with quality and time to market.
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: Web Development
+    desc: HTML, CSS, Node JS, React JS, Angular
+  - title: Enterprise Application Development
+    desc: Java, Java EE, Spring
+  - title: Databases
+    desc: MySQL, MongoDB, Dynomo DB, Postgress
+  - title: Public Cloud
+    desc: AWS, GCP
+  - title: Others
+    desc: Dockers,Kubernetes and Micro Services
+  - title: Programming 
+    desc: Java Script, Java, Python and Go

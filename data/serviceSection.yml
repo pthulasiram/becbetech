@@ -1,0 +1,29 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Creative Services
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
+service:
+  - content: >
+      #### UI/UX Design 
+
+      We evaluate your current UX practices and provide a long term UX Strategy & Process.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development 
+
+      We follow agile methologies to build application for your business.
+    image: images/service/web.svg
+  - content: >
+      #### Creative Design 
+      Craft elements with atmost perfection
+    image: images/service/branding.svg
+  - content: >
+      #### Mobile Application
+
+      We are poineers in IoS and Android app development
+    image: images/service/creative.svg
+  

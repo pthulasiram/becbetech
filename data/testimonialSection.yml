@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What People are Say About Us?
+
+testimonial:
+  - name: Dr Kiran (KS Multispeciality, Banglore)
+    comment:  These people are amazing to work with them. They are very professional and timely delivery.
+    time: Jan 20, 2020
+    star: 5
+  - name: Bharth (CourseNxt)
+    time: Dec 28, 2020
+    comment: Crafted the website with atmost details for our newly devloping mooc platform (www.coursenxt.com)
+    star: 4
+  - name: Franky Filth
+    time: Aug 18, 2020
+    comment: In simple words, this is a right partener choose for business.
+    star: 5
