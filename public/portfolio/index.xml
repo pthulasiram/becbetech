@@ -1,47 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Portio</title>
-    <link>http://example.org/portfolio/</link>
-    <description>Recent content in Portfolios on Portio</description>
+    <title>Portfolios on Becbe Technologies</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Becbe Technologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2020 18:19:35 +0600</lastBuildDate><atom:link href="http://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Aug 2020 18:19:35 +0600</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>JSON Formatter</title>
-      <link>http://example.org/portfolio/recipe-app-ux-study/</link>
+      <link>/portfolio/json-formatter-dev/</link>
       <pubDate>Wed, 12 Aug 2020 18:19:35 +0600</pubDate>
       
-      <guid>http://example.org/portfolio/recipe-app-ux-study/</guid>
+      <guid>/portfolio/json-formatter-dev/</guid>
       <description>JSONFormmater allows to find bugs in JSON data format and fix it quickly.
 Most of the users and developers have concerns about online JSON Formatter tools, which may exchange data with servers and there might be the possibility of exposing sensitive data. We ensure all operations are performed within the browser and no network calls or data is exchanged to the server. It gives a peace of mind for any company and developers to trust online tools for day to day work.</description>
     </item>
     
     <item>
-      <title>UX Case Study for Agriculture App</title>
-      <link>http://example.org/portfolio/ux-case-study-for-agriculture-app/</link>
-      <pubDate>Wed, 12 Aug 2020 12:13:40 +0000</pubDate>
+      <title>coursenxt - leading online course platform</title>
+      <link>/portfolio/course-nxt/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>http://example.org/portfolio/ux-case-study-for-agriculture-app/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>Coursenxt</title>
-      <link>http://example.org/portfolio/event-app-case-study/</link>
-      <pubDate>Wed, 12 Aug 2020 18:07:16 +0600</pubDate>
-      
-      <guid>http://example.org/portfolio/event-app-case-study/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>/portfolio/course-nxt/</guid>
+      <description>About Coursenxt.com Online platform for free learning.
+Learn from the highest rated, most trusted creators on Youtube. Coursenxt has curated content from popular tutorials on Youtube.
+ All Analysis Algebra Computers Databases Electronics Literature Networking Programming Web Design
+ For more details CourseNxt.com</description>
     </item>
     
     <item>
       <title>K S Multispeciality Clinic</title>
-      <link>http://example.org/portfolio/case-study-one/</link>
+      <link>/portfolio/ks-multispeciality/</link>
       <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
       
-      <guid>http://example.org/portfolio/case-study-one/</guid>
-      <description>CourseNxt.com is new way of learning based on available content. we build this platform to encourage free learning.</description>
+      <guid>/portfolio/ks-multispeciality/</guid>
+      <description>About K S Multispeciality Clinic K S Multispeciality Clinic is a Cosmetic/Plastic Surgery Clinic in Bannerghatta Road, Bangalore. The clinic is visited by plastic surgeon like Dr. Kiran Prasad N V. The timings of K S Multispeciality Clinic are: Mon-Sat: 09:30-23:00 and Sun: 09:30-13:00. Some of the services provided by the Clinic are: Breast Augmentation/Mammoplasty,Wart Removal,Burn Surgery,Botox Injections and Liposuction &amp;amp; Sculpting etc.
+For more details KS Multispeciality</description>
     </item>
     
   </channel>
